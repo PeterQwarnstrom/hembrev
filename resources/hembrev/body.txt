@@ -1,0 +1,9 @@
+Nytt från jollen
+
+Hej ##name##!
+Det har kommit ny information från jollen:
+
+##letters##
+
+Med vänlig hälsning
+Peter Qwärnström
