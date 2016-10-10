@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-var hembrev = require('./scrapers/hembrev');
-var mailsender = require('./mailsender');
+var hembrev = require('../scrapers/hembrev');
+var mailsender = require('../mailsender');
 
 hembrev.scrape(function (err, data) {
     if (err) throw err;
