@@ -12,10 +12,6 @@
         "link": "https://docs.google.com/presentation/d/1F61huRXSI_ouTyAjwhIzqhRLzTh46HWxRhedTOx-zdM/edit?usp=drive_web"
     },
     {
-        "title": "Hembrevv41-42.docx (2).pdf",
-        "link": "https://drive.google.com/file/d/0Bw2wOOVK6EDtajNzZmVmYnhzaGM/view?usp=drive_web"
-    },
-    {
         "title": "INFORMATION FRÅN ELEVHÄLSAN FÖR ELEVER I ÅRSKURS 2..docx (2).docx",
         "link": "https://drive.google.com/file/d/0Bw2wOOVK6EDtZ0I0OGh5WUswMGRKUlhLUWJFOXJ5djF2UlJR/view?usp=drive_web"
     },
