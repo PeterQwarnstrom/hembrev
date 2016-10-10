@@ -5,6 +5,8 @@ var hembrev = require('./scrapers/hembrev');
 var mailsender = require('./mailsender');
 var subscription = require('./subscription');
 
+var port = process.env.PORT || 8081;
+
 var app = express();
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
@@ -38,6 +40,6 @@ app.post('/subscribers', function (req, res) {
     });
 })
 
-app.listen('8081')
+app.listen(port);
 console.log('Magic happens on port 8081');
 exports = module.exports = app;
